@@ -1,0 +1,17 @@
+# HR Analytics Dashboard – Power BI
+
+This project focuses on analyzing HR data to understand employee attrition, job satisfaction, and workforce distribution.
+
+## Key Insights
+- Total Employees, Active Employees & Attrition Rate
+- Department-wise Attrition
+- Attrition by Age Group and Gender
+- Job Satisfaction Rating by Job Role
+- Education Field-wise Attrition
+
+## Tools Used
+- Power BI
+- DAX
+- Data Modeling
+- Data Visualization
+
